@@ -1,6 +1,6 @@
 # NutriSight - MHacks12
 
-## Noah Cooper, Justin Kula, Sanil Gosain
+## Sanil Gosain, Noah Cooper, Justin Kula
 
 # Watch our demo video here:
 https://www.youtube.com/watch?v=e75R9pz_eXQ
